@@ -1,2 +1,2 @@
-# Laboratorio-1
-Primer acercamiento con HTML haciendo uso de etiquetas para realizar un CV.
+# Resume HTML
+First steps on using HTML recreating my resume by using different labels.
